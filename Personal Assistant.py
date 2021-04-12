@@ -1,5 +1,5 @@
 import speech_recognition as sr
-import pyaudio as pa
+# import pyaudio as pa
 import pygame
 
 pygame.mixer.quit()
